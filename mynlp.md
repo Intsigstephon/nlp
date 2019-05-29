@@ -13,7 +13,7 @@
       
    词袋模型将每个单词看做孤立的， 把句子看做是由无序的单词组成的。 本身具有非常大的局限性
    
-   词典模型的变种包括如下几种：
+   词袋模型的变种包括如下几种：
    1） BOW: 
       ![bag of words](https://github.com/Intsigstephon/nlp/raw/master/img/BOW.png)
    2） CBOW
