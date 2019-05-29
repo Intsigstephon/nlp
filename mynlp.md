@@ -15,8 +15,8 @@
    
    词典模型的变种包括如下几种：
    1） BOW: 
-      ![bag of words](https://github.com/Intsigstephon/nlp/raw/master/img/BOW.png)；
+      ![bag of words](https://github.com/Intsigstephon/nlp/raw/master/img/BOW.png)
    2） CBOW
-      ![cbow model](https://github.com/Intsigstephon/nlp/raw/master/img/CBOW.png);
+      ![cbow model](https://github.com/Intsigstephon/nlp/raw/master/img/CBOW.png)
    3) deep CBOW
-      ![deep_CBOW model](https://github.com/Intsigstephon/nlp/raw/master/img/deep_CBOW.png);
+      ![deep_CBOW model](https://github.com/Intsigstephon/nlp/raw/master/img/deep_CBOW.png)
