@@ -15,6 +15,6 @@
    
    词典模型的变种包括如下几种：
    1） BOW: 
-      ![bag of words](https://github.com/Intsigstephon/nlp/new/master/aa.png)
+      ![bag of words](https://github.com/Intsigstephon/nlp/tree/master/img/CBOW.png)
    2） CBOW
    3) deep CBOW
