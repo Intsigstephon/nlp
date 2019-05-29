@@ -2,7 +2,8 @@
 1. 本质： 文本相似性度量和计算
 2. 常用的方法： TF-IDF, word embedding pooling, textCNN, textRNN, attention network, matchpyramid等深度学习方法；
 
-a) ## bag方法， 所谓的bag of words
+## bag方法
+   所谓的bag of words
    简称词袋模型， 相当于把组成一个句子的所有词丢到一个袋子里面，那么其实是不考虑词语的先后顺序的。
    
    问题种类：
