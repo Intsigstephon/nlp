@@ -17,4 +17,6 @@
    1） BOW: 
       ![bag of words](https://github.com/Intsigstephon/nlp/tree/master/img/CBOW.png)
    2） CBOW
+      ![cbow model](https://github.com/Intsigstephon/nlp/tree/master/img/CBOW.png)  
    3) deep CBOW
+      ![deep_CBOW model](https://github.com/Intsigstephon/nlp/tree/master/img/deep_CBOW.png)
