@@ -1,4 +1,4 @@
-### 文本分类
+# 文本分类
 1. 本质： 文本相似性度量和计算
 2. 常用的方法： TF-IDF, word embedding pooling, textCNN, textRNN, attention network, matchpyramid等深度学习方法；
 
